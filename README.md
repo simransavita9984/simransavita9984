@@ -59,11 +59,13 @@ A browser-based interactive Tic-Tac-Toe game with responsive design and two-play
 ---
 
 ## 📜 Certifications
+- **[View Certificate on LinkedIn](https://www.linkedin.com/in/simran-savita/details/certifications/)**  
 - **Generative AI Virtual Internship – Google Cloud EduSkill**  
 - **Android Developer Virtual Internship – Google for Developers**  
 - **Accenture North America - Data Analytics and Visualization Job Simulation – Forage**
 - **AI/ML Bootcamp – Google EduSkills TECH CAMP**
-- **Cracked Ed – Communication Training Badge**  
+- **Certificate of Excellence – Crack-ED**
+
 
 ---
 
